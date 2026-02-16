@@ -13,7 +13,7 @@ st.markdown("Analyses haute performance des offres d'emploi")
 st.write("")
 
 # ========================================
-# STATISTIQUES GLOBALES (COULEURS INTENSES)
+# STATISTIQUES GLOBALES 
 # ========================================
 col_m1, col_m2, col_m3, col_m4 = st.columns(4)
 
@@ -44,7 +44,7 @@ industries_df = session.sql("SELECT DISTINCT industry FROM LINKEDIN.PUBLIC.COMPA
 industry_list = industries_df["INDUSTRY"].tolist()
 
 # ========================================
-# ANALYSES 1 & 2 : LES TOP 10 (CONTRASTE ÉLEVÉ)
+# ANALYSES 1 & 2 : LES TOP 10 
 # ========================================
 col_left, col_right = st.columns(2)
 
@@ -88,7 +88,7 @@ st.write("")
 st.divider()
 
 # ========================================
-# ANALYSES 3, 4 & 5 : RÉPARTITIONS STRUCTURELLES (LAYOUTS DÉDIÉS)
+# ANALYSES 3, 4 & 5 : RÉPARTITIONS STRUCTURELLES 
 # ========================================
 st.subheader("📊 Analyse Structurelle du Marché")
 st.write("Vue éclatée des segments entreprises, secteurs et types d'emplois.")
