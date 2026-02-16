@@ -43,14 +43,18 @@ Le dashboard se décompose en 5 axes d'analyse :
 1.  **Top 10 des titres de postes par industrie :** Identification des métiers les plus demandés selon le secteur choisi.
    <img width="790" height="507" alt="image" src="https://github.com/user-attachments/assets/67b5b078-eca4-41c6-a061-ba182734c92a" />
 
+
 2.  **Top 10 des salaires par industrie :** Calcul du salaire maximum moyen par intitulé de poste pour comprendre les tendances de rémunération.
    <img width="781" height="524" alt="image" src="https://github.com/user-attachments/assets/8377dcd4-36d5-4083-9ae6-2c1cc184fc29" />
+   
 
 3.  **Répartition par taille d'entreprise :** Analyse du volume d'offres selon la structure.
    <img width="786" height="622" alt="image" src="https://github.com/user-attachments/assets/63e39601-012d-4cd1-ac56-c51f76e4d6fb" />
+   
 
 4.  **Répartition par secteur d'activité :** Identification des secteurs les plus dynamiques sur le marché.
    <img width="794" height="546" alt="image" src="https://github.com/user-attachments/assets/f97dffb9-c27b-4d12-8d73-69df426be5af" />
+   
 
 5.  **Répartition par type d'emploi :** Vue d'ensemble sur la nature des contrats
    <img width="782" height="361" alt="image" src="https://github.com/user-attachments/assets/86bad3c5-9ac1-4ef0-98aa-bf6b0eb9c0dd" />
