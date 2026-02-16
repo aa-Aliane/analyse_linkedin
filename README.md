@@ -59,15 +59,19 @@ Le dashboard se décompose en 5 axes d'analyse :
 
 ### 1 & 2. Analyses des Titres et Salaires par Industrie
 <img width="1507" height="734" alt="image" src="https://github.com/user-attachments/assets/21b9c47c-02dc-4afa-ba92-72ca0684884a" />
+<img width="1487" height="655" alt="image" src="https://github.com/user-attachments/assets/7d7574d1-f2f1-4b8a-9013-8d5df098173c" />
 
 
 
 ### 3. Répartition par Taille d'Entreprise
-*(Espace pour insérer la capture d'écran de l'analyse 3)*
+<img width="1499" height="556" alt="image" src="https://github.com/user-attachments/assets/ce243602-a720-401b-8426-8a5e9f2db0ed" />
+
 
 
 ### 4 & 5. Secteurs et Types de Contrats
-*(Espace pour insérer la capture d'écran des répartitions globales)*
+<img width="1505" height="515" alt="image" src="https://github.com/user-attachments/assets/61e87f16-113d-4ca4-9718-57bad37b85f9" />
+<img width="1468" height="544" alt="image" src="https://github.com/user-attachments/assets/702f4914-87a0-48c4-b091-c41be6d455d4" />
+
 
 
 ---
