@@ -58,7 +58,8 @@ Le dashboard se décompose en 5 axes d'analyse :
 ## 📸 Captures d'écran du Dashboard
 
 ### 1 & 2. Analyses des Titres et Salaires par Industrie
-*(Espace pour insérer la capture d'écran du menu déroulant et des graphiques de barres)*
+<img width="1507" height="734" alt="image" src="https://github.com/user-attachments/assets/21b9c47c-02dc-4afa-ba92-72ca0684884a" />
+
 
 
 ### 3. Répartition par Taille d'Entreprise
