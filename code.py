@@ -57,7 +57,7 @@ except Exception as e:
 st.divider()
 
 # ========================================
-# ANALYSE 2 : Top 10 salaires par industrie (CORRIGÉ)
+# ANALYSE 2 : Top 10 salaires par industrie 
 # ========================================
 st.header("2️⃣ Top 10 des postes les mieux rémunérés par industrie")
 try:
@@ -116,7 +116,7 @@ except Exception as e:
 st.divider()
 
 # ========================================
-# ANALYSE 3 : Répartition par taille d'entreprise (CORRIGÉ)
+# ANALYSE 3 : Répartition par taille d'entreprise 
 # ========================================
 st.header("3️⃣ Répartition des offres par taille d'entreprise")
 try:
@@ -216,7 +216,7 @@ except Exception as e:
     st.error(f"Erreur Analyse 5 : {e}")
 
 # ========================================
-# STATISTIQUES GLOBALES (CORRIGÉ)
+# STATISTIQUES GLOBALES 
 # ========================================
 st.divider()
 st.subheader("📈 Statistiques Globales")
