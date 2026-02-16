@@ -29,7 +29,7 @@ CREATE OR REPLACE FILE FORMAT json_linkedin_format
   STRIP_OUTER_ARRAY = TRUE;
 
 -- ========================================
--- TABLE COMPANIES (Table Parent Principale)
+-- TABLE COMPANIES 
 -- ========================================
 CREATE OR REPLACE TABLE companies_json (data VARIANT);
 
@@ -71,7 +71,7 @@ SELECT
 FROM companies_json;
 
 -- ========================================
--- TABLE JOB_POSTINGS (Table Parent Secondaire)
+-- TABLE JOB_POSTINGS 
 -- ========================================
 CREATE OR REPLACE TABLE job_postings (
     job_id BIGINT PRIMARY KEY,
