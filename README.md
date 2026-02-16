@@ -41,10 +41,21 @@ Le dashboard intégré à Snowflake permet de filtrer les données en temps rée
 Le dashboard se décompose en 5 axes d'analyse :
 
 1.  **Top 10 des titres de postes par industrie :** Identification des métiers les plus demandés selon le secteur choisi.
+   <img width="790" height="507" alt="image" src="https://github.com/user-attachments/assets/67b5b078-eca4-41c6-a061-ba182734c92a" />
+
 2.  **Top 10 des salaires par industrie :** Calcul du salaire maximum moyen par intitulé de poste pour comprendre les tendances de rémunération.
-3.  **Répartition par taille d'entreprise :** Analyse du volume d'offres selon la structure (de la TPE à la multinationale).
+   <img width="781" height="524" alt="image" src="https://github.com/user-attachments/assets/8377dcd4-36d5-4083-9ae6-2c1cc184fc29" />
+
+3.  **Répartition par taille d'entreprise :** Analyse du volume d'offres selon la structure.
+   <img width="786" height="622" alt="image" src="https://github.com/user-attachments/assets/63e39601-012d-4cd1-ac56-c51f76e4d6fb" />
+
 4.  **Répartition par secteur d'activité :** Identification des secteurs les plus dynamiques sur le marché.
-5.  **Répartition par type d'emploi :** Vue d'ensemble sur la nature des contrats (Temps plein, Freelance, Stage).
+   <img width="794" height="546" alt="image" src="https://github.com/user-attachments/assets/f97dffb9-c27b-4d12-8d73-69df426be5af" />
+
+5.  **Répartition par type d'emploi :** Vue d'ensemble sur la nature des contrats
+   <img width="782" height="361" alt="image" src="https://github.com/user-attachments/assets/86bad3c5-9ac1-4ef0-98aa-bf6b0eb9c0dd" />
+
+   
 
 ---
 
@@ -56,22 +67,6 @@ Le dashboard se décompose en 5 axes d'analyse :
 
 ---
 
-## 📸 Captures d'écran du Dashboard
-
-### 1 & 2. Analyses des Titres et Salaires par Industrie
-<img width="1507" height="734" alt="image" src="https://github.com/user-attachments/assets/21b9c47c-02dc-4afa-ba92-72ca0684884a" />
-<img width="1487" height="655" alt="image" src="https://github.com/user-attachments/assets/7d7574d1-f2f1-4b8a-9013-8d5df098173c" />
-
-
-
-### 3. Répartition par Taille d'Entreprise
-<img width="1499" height="556" alt="image" src="https://github.com/user-attachments/assets/ce243602-a720-401b-8426-8a5e9f2db0ed" />
-
-
-
-### 4 & 5. Secteurs et Types de Contrats
-<img width="1505" height="515" alt="image" src="https://github.com/user-attachments/assets/61e87f16-113d-4ca4-9718-57bad37b85f9" />
-<img width="1468" height="544" alt="image" src="https://github.com/user-attachments/assets/702f4914-87a0-48c4-b091-c41be6d455d4" />
 
 
 
