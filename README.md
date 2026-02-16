@@ -49,6 +49,7 @@ Le dashboard se décompose en 5 axes d'analyse :
 ---
 
 ## 🚀 Problèmes Rencontrés & Solutions
+* **Valeurs NULL dans les clés primaires :** 12,8% des entreprises (21 993 sur 172 291) avaient des company_id NULL. Solution : Génération automatique d'IDs négatifs via ROW_NUMBER() avec un flag is_generated_id pour la traçabilité.
 * **Complexité JSON :** Les fichiers entreprises étaient au format JSON. Nous avons dû utiliser la fonction `FLATTEN` ou l'extraction directe `data:key::type` pour les transformer en colonnes exploitables.
 * **Performance :** Pour optimiser les calculs, nous avons configuré le warehouse `COMPUTE_WH` en taille 'SMALL'.
 * **Visualisation :** Adaptation des graphiques Streamlit (`st.bar_chart`) pour s'assurer que les axes X et Y soient correctement mappés sur les colonnes SQL.
