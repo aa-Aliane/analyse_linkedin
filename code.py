@@ -78,7 +78,6 @@ try:
         
         safe_industry2 = selected_industry2.replace("'", "''")
         
-        # CORRIGÉ : Afficher MAX et MIN (car MED_SALARY est vide)
         query2 = f"""
         SELECT 
             jp.title,
