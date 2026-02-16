@@ -76,7 +76,3 @@ Le dashboard se décompose en 5 axes d'analyse :
 
 ---
 
-## 📬 Soumission
-**Intitulé :** MBAESG_EVALUATION_ARCHITECTURE_BIGDATA  
-**Destinataire :** axel@logbrain.fr  
-**Dépôt GitHub :** [Lien vers votre dépôt]
